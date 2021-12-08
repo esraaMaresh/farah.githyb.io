@@ -1,0 +1,180 @@
+.photo{
+
+    width: 150px;
+    height: 150px;
+    border-radius: 88px;
+    margin-left: 20px;
+    border-style: solid;
+    border-color: antiquewhite;
+    border-width: 3px;
+    padding: 10px;
+    float: left;
+}
+header{
+    background-color:indianred;
+    min-height: 250px;
+
+}
+
+.name{
+    float: left;
+    color:black;
+    text-align: center;
+    margin-left: 300px;
+    padding-top: 20px;
+}
+.line{
+    border-bottom-style:solid ;
+    border-bottom-color:indianred;
+    padding: 60px;
+}
+.i-info{
+    margin-left: 40px;
+    
+
+}
+.icons{
+    margin-left: 40px;
+
+    float: left;
+    
+}
+small{
+    padding: 50px;
+}
+
+.left{
+    height: 600px;
+    width: 17%;
+    background-color: indianred;
+    float: left;
+    border-radius: 40px;
+    margin: 10px;
+    padding: 10px;
+    
+}
+.right{
+    height: 600px;
+    width: 77%;
+    background-color:indianred;
+    float:left;
+    border-radius: 90px;
+    margin: 7px;
+    padding: 5px;
+    
+}
+.nav2
+{
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 20px;
+
+    clear: both;
+    
+}
+.nav2 a{
+    margin:50px;
+    padding: 50px;
+    
+
+}
+.nav2 a{
+    color: black;
+    text-decoration:none;
+    padding: 10px;
+    cursor: pointer;
+
+}
+
+.nav2 a:hover{
+    background-color:lightgreen;
+}
+.sevi{
+    padding: 1px;
+    background-color:antiquewhite;
+    border-radius: 50px;
+    text-align: center;
+    margin: 1px;
+}
+.ul{
+    text-align: center;
+}
+.obj{
+    background-color:navajowhite;
+    margin: 20px;
+    clear: both;
+}
+.paragr{
+    padding: 10px;
+}
+.place{
+    float: left;
+}
+.pers{
+    font-size: large;
+    font-style: italic;
+}
+.img{
+
+    height: 250px;
+    width: 250px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 80px;
+    box-shadow:sienna 5px 5px 5px;
+    
+}
+.picture
+{
+    float: left;
+}
+.abc
+{
+    background-color: seashell;
+    font-style: italic;
+}
+.pg
+{
+    font-size: large;
+}
+.course1
+{
+    background-color:indianred;
+    float: left;
+    height: 200px;
+    width: 95%;
+    border-radius: 30px;
+    margin: 5px;
+    padding: 10px;
+}
+.HTML
+{
+    text-align: center;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.video1
+{
+    text-align: center; 
+    background-color: black;
+    border-radius: 10px;
+    margin: 30px;
+    padding: 20px;
+
+}
+.video
+{
+    height: 400px;
+    width: 600px;
+    margin: 10px;
+    
+}
+.F{
+    background-color: burlywood;
+}
+.active{
+    background-color: burlywood;
+    padding: 20px;
+}
+
+
